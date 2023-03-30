@@ -4,6 +4,8 @@ A timeline of major AI advances in 2023.
 
 ## January
 
+- 1/5: [Microsoft: VALL-E](https://valle-demo.github.io/)
+
 ## February
 
 - 2/6: [Google: Bard](https://blog.google/technology/ai/bard-google-ai-search-updates)
@@ -17,6 +19,7 @@ A timeline of major AI advances in 2023.
 
 - 3/1: [OpenAI: ChatGPT and Whisper API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 - 3/6: [Google: Universal Speech Model](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)
+- 3/8: [Microsoft: VALL-E X](https://vallex-demo.github.io/)
 - 3/10: [Google: PaLM-E](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
 - 3/13: [Stanford: Alpaca 7B](https://github.com/tatsu-lab/stanford_alpaca)
 - 3/14: [Anthropic: Claude](https://www.anthropic.com/index/introducing-claude)
