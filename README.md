@@ -30,6 +30,7 @@ A timeline of major AI advances in 2023.
 - 3/15: [Midjourney: Midjourney V5](https://twitter.com/midjourney/status/1636130389365497857)
 - 3/16: [Microsoft: Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work)
 - 3/20: [Runway: Gen-2](https://research.runwayml.com/gen2)
+- 3/20: [Nuance and Microsoft: DAX Express](https://news.nuance.com/2023-03-20-Nuance-and-Microsoft-Announce-the-First-Fully-AI-Automated-Clinical-Documentation-Application-for-Healthcare)
 - 3/21: [Google: Bard](https://blog.google/technology/ai/try-bard)
 - 3/21: [Adobe: Firefly](https://news.adobe.com/news/news-details/2023/Adobe-Unveils-Firefly-a-Family-of-new-Creative-Generative-AI/default.aspx)
 - 3/21: [Microsoft: Bing Image Creator](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing)
