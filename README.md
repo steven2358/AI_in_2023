@@ -37,6 +37,7 @@ A timeline of major AI advances in 2023.
 - 3/22: [GitHub: Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience)
 - 3/23: [OpenAI: ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
 - 3/28: [Nomic AI: GPT4All](https://github.com/nomic-ai/gpt4all)
+- 3/30: [Bloomberg: BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
 
 ## Credits
 
