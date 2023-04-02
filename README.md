@@ -12,6 +12,7 @@ A timeline of major AI advances in 2023.
 - 2/6: [Google: Bard](https://blog.google/technology/ai/bard-google-ai-search-updates)
 - 2/7: [Microsoft: Bing Chat](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)
 - 2/9: [Meta: Toolformer](https://arxiv.org/abs/2302.04761)
+- 2/9: [Google: Noise2Music](https://google-research.github.io/noise2music/)
 - 2/13: [Google: Vision Transformer 22B](https://twitter.com/m__dehghani/status/1625186144001396737)
 - 2/22: [Microsoft: Bing announcement on mobile and Skype](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype)
 - 2/24: [Meta: LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai)
@@ -38,7 +39,8 @@ A timeline of major AI advances in 2023.
 - 3/23: [OpenAI: ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins)
 - 3/28: [Nomic AI: GPT4All](https://github.com/nomic-ai/gpt4all)
 - 3/30: [Bloomberg: BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
+- 3/31: [HuggingFace: HuggingGPT](https://twitter.com/johnjnay/status/1641609645713129473)
 
 ## Credits
 
-Inspired by [this list](http://dustintran.com/blog/ai-advances) by [Dustin Tran](https://twitter.com/dustinvtran).
+Inspired by [this list](http://dustintran.com/blog/ai-advances) by [Dustin Tran](https://twitter.com/dustinvtran) and the [ML Papers of The Week repo](https://github.com/dair-ai/ML-Papers-of-the-Week) by [DAIR.AI](https://dair.ai/).
