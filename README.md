@@ -6,6 +6,7 @@ A timeline of major AI advances in 2023.
 
 - 1/5: [Microsoft: VALL-E](https://valle-demo.github.io/)
 - 1/26: [Google: MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
+- 1/30: [Salesforce: BLIP-2](https://arxiv.org/abs/2301.12597)
 
 ## February
 
