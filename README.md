@@ -42,6 +42,9 @@ A timeline of major AI advances in 2023.
 - 3/30: [Bloomberg: BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
 - 3/31: [HuggingFace: HuggingGPT](https://twitter.com/johnjnay/status/1641609645713129473)
 
+April
+- 4/5: [Meta: Segment Anything](https://segment-anything.com/)
+
 ## Credits
 
 Inspired by [this list](http://dustintran.com/blog/ai-advances) by [Dustin Tran](https://twitter.com/dustinvtran) and the [ML Papers of The Week repo](https://github.com/dair-ai/ML-Papers-of-the-Week) by [DAIR.AI](https://dair.ai/).
