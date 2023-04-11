@@ -44,6 +44,7 @@ A timeline of major AI advances in 2023.
 - 3/31: [HuggingFace: HuggingGPT](https://twitter.com/johnjnay/status/1641609645713129473)
 
 April
+- 4/3: [@yoheinakajima: babyagi](https://github.com/yoheinakajima/babyagi/)
 - 4/5: [Meta: Segment Anything](https://segment-anything.com/)
 - 4/7: [Stanford & Google: Generative Agents](https://arxiv.org/abs/2304.03442)
 
