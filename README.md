@@ -45,6 +45,7 @@ A timeline of major AI advances in 2023.
 
 April
 - 4/5: [Meta: Segment Anything](https://segment-anything.com/)
+- 4/7: [Stanford & Google: Generative Agents](https://arxiv.org/abs/2304.03442)
 
 ## Credits
 
