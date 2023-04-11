@@ -31,6 +31,7 @@ A timeline of major AI advances in 2023.
 - 3/15: [Baidu: ERNIE Bot](https://www.youtube.com/watch?v=ukvEUI3x0vI)
 - 3/15: [Midjourney: Midjourney V5](https://twitter.com/midjourney/status/1636130389365497857)
 - 3/16: [Microsoft: Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work)
+- 3/16: [@Torantulino: AutoGPT](https://github.com/Torantulino/Auto-GPT/)
 - 3/20: [Runway: Gen-2](https://research.runwayml.com/gen2)
 - 3/20: [Nuance and Microsoft: DAX Express](https://news.nuance.com/2023-03-20-Nuance-and-Microsoft-Announce-the-First-Fully-AI-Automated-Clinical-Documentation-Application-for-Healthcare)
 - 3/21: [Google: Bard](https://blog.google/technology/ai/try-bard)
