@@ -50,8 +50,10 @@ April
 - 4/11: [Alibaba: Tongyi Qianwen](https://www.alibabagroup.com/en-US/document-1582482069362049024)
 - 4/24: [Runway: Gen-1 on iOS](https://apps.apple.com/app/apple-store/id1665024375)
 - 4/25: [HuggingFace: HuggingChat](https://huggingface.co/chat)
+- 4/25: [Palantir: Palantir AIP](https://www.youtube.com/watch?v=XEM5qz__HOU)
 - 4/26: [TikTok: AI Avatars](https://twitter.com/MattNavarra/status/1651012552376156166)
 - 4/27: [Microsoft: Microsoft Designer](https://designer.microsoft.com/)
+- 4/28: [Stability AI: StableVicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
 
 ## Credits
 
