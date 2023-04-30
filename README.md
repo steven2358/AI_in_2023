@@ -48,7 +48,10 @@ April
 - 4/5: [Meta: Segment Anything](https://segment-anything.com/)
 - 4/7: [Stanford & Google: Generative Agents](https://arxiv.org/abs/2304.03442)
 - 4/11: [Alibaba: Tongyi Qianwen](https://www.alibabagroup.com/en-US/document-1582482069362049024)
-- 4/27: [HuggingFace: HuggingChat](https://huggingface.co/huggingchat)
+- 4/24: [Runway: Gen-1 on iOS](https://apps.apple.com/app/apple-store/id1665024375)
+- 4/25: [HuggingFace: HuggingChat](https://huggingface.co/chat)
+- 4/26: [TikTok: AI Avatars](https://twitter.com/MattNavarra/status/1651012552376156166)
+- 4/27: [Microsoft: Microsoft Designer](https://designer.microsoft.com/)
 
 ## Credits
 
