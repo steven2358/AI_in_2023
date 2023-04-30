@@ -48,6 +48,7 @@ April
 - 4/5: [Meta: Segment Anything](https://segment-anything.com/)
 - 4/7: [Stanford & Google: Generative Agents](https://arxiv.org/abs/2304.03442)
 - 4/11: [Alibaba: Tongyi Qianwen](https://www.alibabagroup.com/en-US/document-1582482069362049024)
+- 4/27: [HuggingFace: HuggingChat](https://huggingface.co/huggingchat)
 
 ## Credits
 
