@@ -55,6 +55,10 @@ April
 - 4/27: [Microsoft: Microsoft Designer](https://designer.microsoft.com/)
 - 4/28: [Stability AI: StableVicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)
 
+May
+- 5/18: [Max Planck Institute for Informatics: DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
+- 5/23: [Generative Fill in Photoshop](https://news.adobe.com/news/news-details/2023/Adobe-Unveils-Future-of-Creative-Cloud-with-Generative-AI-as-a-Creative-Co-Pilot-in-Photoshop-default.aspx/default.aspx)
+
 ## Credits
 
 Inspired by [this list](http://dustintran.com/blog/ai-advances) by [Dustin Tran](https://twitter.com/dustinvtran) and the [ML Papers of The Week repo](https://github.com/dair-ai/ML-Papers-of-the-Week) by [DAIR.AI](https://dair.ai/).
