@@ -57,7 +57,7 @@ April
 
 May
 - 5/18: [Max Planck Institute for Informatics: DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
-- 5/23: [Generative Fill in Photoshop](https://news.adobe.com/news/news-details/2023/Adobe-Unveils-Future-of-Creative-Cloud-with-Generative-AI-as-a-Creative-Co-Pilot-in-Photoshop-default.aspx/default.aspx)
+- 5/23: [Adobe: Generative Fill in Photoshop](https://news.adobe.com/news/news-details/2023/Adobe-Unveils-Future-of-Creative-Cloud-with-Generative-AI-as-a-Creative-Co-Pilot-in-Photoshop-default.aspx/default.aspx)
 
 ## Credits
 
